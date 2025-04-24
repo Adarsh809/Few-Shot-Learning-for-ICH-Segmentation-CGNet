@@ -1,7 +1,5 @@
 # CGNet: Few-Shot Learning for Intracranial Hemorrhage Segmentation
 
-## Overview
-
 This repository contains the implementation of **CGNet**, a novel few-shot deep learning model for **Intracranial Hemorrhage (ICH) segmentation** in medical images, based on the paper:
 
 > Gong et al., "CGNet: Few-shot learning for Intracranial Hemorrhage Segmentation", 2024.
